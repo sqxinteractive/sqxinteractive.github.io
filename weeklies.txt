@@ -1,1 +1,1 @@
-51-Spain:Lap;52-RRCParkRing:Lap;
+51-Spain:Hot lap;52-RRC Park Ring:Hot lap;
